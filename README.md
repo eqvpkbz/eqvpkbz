@@ -15,7 +15,9 @@
 
 ![Eqvpkbz's github stats](https://github-readme-stats.vercel.app/api?username=eqvpkbz&show_icons=true&hide_border=true)
 
-
+<a href="https://github.com/eqvpkbz/model-in-OI">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eqvpkbz&repo=model-in-OI" />
+</a>
 
   <a href="https://in.linkedin.com/in/TheDudeThatCode">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -31,13 +33,6 @@
   </a>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-  
-<a href="https://github.com/eqvpkbz/model-in-OI">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eqvpkbz&repo=model-in-OI" />
-</a>
-
-
 
 <div align="center">
 	<br>
